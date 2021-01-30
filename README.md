@@ -13,4 +13,4 @@ I was asked to create a prototype of an online shop for the young entrepreneuria
 
 # Preview
 Feel free to have a look at the website [here](https://jeanfabry.github.io/Hold-your-mask/)
-[![Preview](./Assets/images/preview.png)](https://jeanfabry.github.io/Hold-your-mask/)
+[![Preview](./Assets/preview/preview.png)](https://jeanfabry.github.io/Hold-your-mask/)

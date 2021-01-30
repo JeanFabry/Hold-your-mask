@@ -47,6 +47,11 @@ width: 100%;
 
 }
 
+.item-2 {
+    z-index: -2;
+    position: absolute;
+   
+}
 
 .carouseling {
 position: absolute;
