@@ -12,9 +12,5 @@ I was asked to create a prototype of an online shop for the young entrepreneuria
 * Figma
 
 # Preview
-
-![Preview](./Assets/preview.png)
-
-# Link to GitHub Page
-
-Want to test it ? Here you go :point_right:  click on the [**link**](https://jeanfabry.github.io/calculator/) ! 
+Feel free to have a look at the website [here](https://jeanfabry.github.io/Hold-your-mask/)
+[![Preview](./Assets/images/preview.png)](https://jeanfabry.github.io/Hold-your-mask/)
